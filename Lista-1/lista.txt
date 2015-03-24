@@ -1,0 +1,18 @@
+
+Para o dia 24/02/2015
+
+1)Faça um programa que leia os coeficientes de uma equação do segundo grau,calcule e mostre as raízes
+2)Faça um program que leia o raio de uma circunferencia calcule e imprima o perimetro
+3)Faça um programa que leia a raio de uma circunferencia, calcule e imprima sua área
+4)faça um programa que leia a base e a altura de um triangulo, calcule e imprima a sua área
+5)Faça um programa que leia os dos catetos, calcule e imprima a hipotenusa
+6)Faça um programa que leia os dois lados de um retangulo, calcule e imprima o perimetro
+7)Faça um programa que leia os dois lados de um retangulo, calcule e imprima a area
+8)Faça um programa que leia os 3 lados de 1 triangulo, calcule e imprima sua perimetro
+9)Faça um programa que leia o salario de um funcionario e calcule o novo salario apos um reajuste de 10%, imprima na tela
+13)Faça um programa que leia um numero real e faça seu arredondamento
+14)Faça um programa que leia 3 numeros, calcule e imprima a media
+15)Faça um programa que leia o peso de uma pessoa (medida em libra), calcula e imprima em kilos
+16)Faça um programa que leia a altura de uma pessoa (medida em polegadas), calcule e imprima em metros
+17)Faça um programa que leia o peso em kg, altura em cm, calcule e imprima o imc
+
